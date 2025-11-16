@@ -1,5 +1,0 @@
-Metadata-Version: 2.4
-Name: filesearch
-Version: 0.1.0
-Summary: CLI tool to search filenames by keyword
-Requires-Python: >=3.10

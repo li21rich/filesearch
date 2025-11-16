@@ -1,7 +1,0 @@
-filesearch.py
-pyproject.toml
-filesearch.egg-info/PKG-INFO
-filesearch.egg-info/SOURCES.txt
-filesearch.egg-info/dependency_links.txt
-filesearch.egg-info/entry_points.txt
-filesearch.egg-info/top_level.txt
