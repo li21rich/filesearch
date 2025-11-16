@@ -35,8 +35,6 @@ Search the Downloads folder and stop at the first match:
 fs foo --first --path C:\Users\<username>\Downloads
 ```
 
----
-
 ## Installation
 
 Install the fs command globally:
